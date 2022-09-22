@@ -1,0 +1,74 @@
+
+body {
+        color:aliceblue;
+        background-color: black;
+    }
+    
+       .paginasobre{
+        color: red;
+        position: relative;
+        top: 3px;
+        left: 33%;
+        background-color: black;
+        width: 28.2vw;
+        
+}
+.car img{
+        width: 1200px;
+        height: 850px;
+        margin-right: 800px;
+
+}
+
+ .cartext{
+        color: white;
+        position: fixed;
+        top: 160px;
+        width: 800px;
+        margin-bottom: 900px;
+        margin-left: 1050px;
+}
+
+.cartext2{
+        color: white;
+        position: fixed;
+        top: 540px;
+        width: 800px;
+        margin-bottom: 900px;
+        margin-left: 1050px;
+
+}
+
+.cartext2theme{
+        color: white;
+        position: fixed;
+        top: 490px;
+        width: 800px;
+        margin-bottom: 900px;
+        margin-left: 1050px;
+
+}
+.cartext4{
+        color: beige;
+        position: fixed;
+        top: 115px;
+        width: 800px;
+        margin-bottom: 900px;
+        margin-left: 1050px;
+}
+.cartext5{
+        color: white;
+        position: fixed;
+        top: 200px;
+        width: 850px;
+        margin-top: 580px;
+        margin-left: 1055px;
+}
+ .cartext5theme{
+        color: white;
+        position: fixed;
+        top: 730px;
+        width: 800px;
+        margin-bottom: 900px;
+        margin-left: 1050px;  
+ }

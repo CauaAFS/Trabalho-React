@@ -1,0 +1,103 @@
+
+
+.contato{
+    color: red;
+    position: relative;
+    left: 16%;
+    margin-top: 10px;
+    
+}
+.car1 img{
+position: fixed;
+top: 150px;
+margin-right: 200px;
+height: 330px;
+left: 80px;
+}
+
+.car2 img{
+    position: fixed;
+    top: 400px;
+    margin-right: 200px;
+    height: 280px;
+    left: 80px;
+}
+.car3 img{
+    position: fixed;
+    top: 660px;
+    margin-right: 200px;
+    height: 350px;
+    left: 80px;
+}
+
+.tabela1{
+    color: white;
+    height: 200px;
+    width: 900px;
+    margin-left: 800px;
+    margin-top: 150px;
+}
+
+.tabela1 td{
+    position: relative;
+    text-align: center;
+    height: 120px;
+}
+
+.tabela2{
+    color: white;
+    height: 150px;
+    width: 900px;
+    margin-left: 798px;
+
+}
+
+.tabela2 td{
+    position: relative;
+    text-align: center;
+
+}
+
+.tabela3{
+    color: white;
+    height: 150px;
+    width: 900px;
+    margin-left: 800px;
+}
+
+.tabela3 td{
+    position: relative;
+    text-align: center;
+}
+
+.Fulltable{
+    position: absolute;
+    bottom: 230px;
+}
+
+.menuprincipal2{
+    color:red;
+    margin-left: 1045px;
+    width: 550px;
+    height: 1px;
+    margin-top: 25px;
+}
+.contato2{  
+    color: red;
+    width: 1000px;
+    height: 100px;
+    margin-left: 900px;
+    margin-top: 645px;
+
+}
+
+form{
+    color: white;
+    position: relative;
+    left: 40%;
+}
+input{
+    padding: 10px;
+
+}
+
